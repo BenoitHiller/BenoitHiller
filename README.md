@@ -4,7 +4,6 @@
 
 * I wrote a [http server in bash](https://github.com/BenoitHiller/shellby/blob/master/lib/http.sh) at one point. Let me know if you can think of a good way to get chunked encoding to work as the fun part is being able to connect it to pipes, but chunked encoding requies handling strings with `\0`...
 * Genuinely eager to hear criticism of my work. A big part of being able to learn and improve is making sure that I can always see many flaws in myself and my code to chip away at. I would love your help.
-* He/Him
 
 ## Dear Recruiters
 
