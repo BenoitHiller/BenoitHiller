@@ -7,4 +7,4 @@
 
 ## Dear Recruiters
 
-If you would like a response to your emails please include the following string in them: `29a4b4bb-30d2-432d-bacc-c7386da87477`. Though I doubt I'm going to bother going through the interview process for a company that is building some vague technical novelty in the hopes of eventual usefulness or a minor convenience that hopes to make profit through rent seeking after creating a monopoly.
+If you would like a response to your emails please include the following string in them: `29a4b4bb-30d2-432d-bacc-c7386da87477`.
